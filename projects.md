@@ -102,6 +102,7 @@ Odddane po terminie:
 1. [Krakowiak Michał](https://github.com/mkrakowiak/rails2) C9
 1. [Marcinkiewicz Oskar](https://github.com/BoskiOski/ASI) C9
 1. [Żerański Piotr] (https://github.com/pzeranski/asi) C9
+2. [Marcin Szpaderski](https://github.com/mszpaderski/ASI_2016.git)
 
 NOZO:
 
